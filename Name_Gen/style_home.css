@@ -1,0 +1,86 @@
+.body {
+  font-family: "PF Ronda Seven", sans-serif;
+  background-color: #01889f;
+}
+
+.navbar {
+  background-color: rgb(238, 238, 238);
+  font-family: "PF Ronda Seven", sans-serif;
+}
+
+.d-flex {
+  margin: 0;
+  padding: 0;
+}
+
+.search-button {
+  font-family: "PF Ronda Seven", sans-serif;
+  background-color: #ffaf7a;
+  margin-top: 20px;
+  border-radius: 20px;
+  width: 100%;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.footer {
+  font-family: "PF Ronda Seven", sans-serif;
+  text-align: right;
+  position: absolute;
+  padding-top: 20px;
+}
+
+/*NEWLY ADDED*/
+* {
+  border-radius: 0 !important;
+  outline: 2px;
+  border-inline-color: none;
+}
+
+input {
+  border-width: 1px;
+  border-color: lightgrey;
+  width: 352px;
+}
+
+.select {
+  width: 350px;
+}
+
+input,
+select {
+  height: 38px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.input-group {
+  font-family: "PF Ronda Seven", sans-serif;
+  margin-bottom: 1.5rem;
+}
+
+.input-label {
+  font-family: "PF Ronda Seven", sans-serif;
+  display: block;
+  font-size: 1rem;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  width: 150px;
+}
+
+.container {
+  padding: auto;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+footer {
+  font-family: "PF Ronda Seven", sans-serif;
+}
