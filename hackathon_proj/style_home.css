@@ -3,7 +3,6 @@
 }
 
 .navbar {
-  /*background-image : linear-gradient(to left, #FF3366, #BA265D)*/
   background-color: #7d40af;
   font-family: "MOTO VERSE", sans-serif;
 }
@@ -15,7 +14,7 @@ div {
 .overlay {
   position: absolute;
   z-index: 10;
-  top: 35%;
+  top: 30%;
   width: 100%;
   text-align: left;
   border-radius: 0;
@@ -129,6 +128,10 @@ button:hover {
   color: white !important;
 }
 
-.choose-name {
+#choose-name {
   color: white;
+}
+
+#output-group {
+  margin: auto;
 }

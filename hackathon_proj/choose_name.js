@@ -1,1 +1,1 @@
-document.getElementById("choose-name").innerText = "";
+document.getElementById("choose-name").innerText = "hi";
