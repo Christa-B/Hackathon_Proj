@@ -129,7 +129,9 @@ button:hover {
 }
 
 #choose-name {
+  font-family: "Hemi Head", sans-serif;
   color: white;
+  margin: auto !important;
 }
 
 #output-group {
